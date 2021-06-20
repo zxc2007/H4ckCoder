@@ -1,0 +1,5 @@
+- 👋 Hey, Im H4ckerCoder
+- 👀 I like making Backdoors, DDoS, Portscanners and more
+- 🌱 Ofcourse when I make these go public, don't use them for bad or illegal purposes :D
+- 💞️ Languages im good at are Python and Batch
+- 📫 Thanks
