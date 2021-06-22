@@ -1,3 +1,1 @@
-Hey! I like giving away source codes from different Projects..
-Wether it is a portscanner, DDoS, Tool or more! / Don't use them for bad :)
-Have Fun!
+Before opening the .PY file, read the requierments, GoTo cmd and type PiP install [all the requierments], then open the file.
