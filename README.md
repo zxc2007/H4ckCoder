@@ -1,4 +1,5 @@
-Hey! Im H4ckCoder ( don't ask me why I chose that name lol )
-I make Projects in Python and experiment with them, if they are working, I try to put them on my GitHub Page
-And if You are wondering, im living in Germany and im 13
-Im NOT a professional
+Open the Requierments.txt, GoTo cmd and type pip install [all the requierments], then open the .PY file
+
+It has different attack methods such as STD/HTTP, SYS, UDP, TCP, Home and more
+
+Not mine, made by IotNet originally and it is also a botnet
